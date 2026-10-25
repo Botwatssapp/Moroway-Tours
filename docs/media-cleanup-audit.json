@@ -1,0 +1,31 @@
+{
+    "unique_sql_media": 21,
+    "local_sql_media": [
+        "/assets/photos/fes-gate-1600.webp",
+        "/assets/photos/tanger-kasbah-1600.webp",
+        "/assets/photos/casablanca-habous-1600.webp",
+        "/assets/destinations/fes.jpg",
+        "/assets/destinations/tanger.jpg",
+        "/assets/destinations/casablanca.jpg",
+        "/assets/photos/fes-bou-inania-1600.webp",
+        "/assets/photos/fes-qarawiyyin-1600.webp",
+        "/assets/photos/tanger-seaside-1600.webp",
+        "/assets/photos/tanger-socco-1600.webp",
+        "/assets/photos/casablanca-hassan-ii-1600.webp",
+        "/assets/photos/casablanca-habous-arches-1600.webp"
+    ],
+    "archived_sql_media": [
+        "/assets/merzouga-caravan.jpg",
+        "/assets/chefchaouen.jpg",
+        "/assets/essaouira.jpg",
+        "/assets/atlas.jpg",
+        "/assets/ait-benhaddou.jpg",
+        "/assets/dades.jpg",
+        "/assets/sahara-sunset.jpg",
+        "/assets/agafay.jpg"
+    ],
+    "remote_sql_media_count": 1,
+    "unresolved_sql_media": [],
+    "verified_variants_present": 35,
+    "policy": "Preserve SQL-referenced media, originals and fallbacks. Historical media are stored privately under backend/storage/app/private/archived-media."
+}

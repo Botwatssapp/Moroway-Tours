@@ -1,0 +1,483 @@
+[
+  {
+    "id": "fes-gate",
+    "city": "Fès",
+    "filename": "Bab Bou Jeloud (Fes, Marocco).jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bab_Bou_Jeloud_(Fes,_Marocco).jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bab_Bou_Jeloud_%28Fes%2C_Marocco%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "location_evidence": "Bab Bou Jeloud (Fes, Marocco). The gate Bab Bou Jeloud (aka Blue Gates) leads into the old medina in Fes, Morocco.",
+    "source_width": 6000,
+    "source_height": 6469,
+    "alt": {
+      "fr": "Bab Bou Jeloud, porte de la médina de Fès",
+      "en": "Bab Bou Jeloud, gateway to the medina of Fès"
+    },
+    "original_file": "backend/storage/app/private/media-sources/fes-gate.jpg",
+    "source_sha256": "12529fbc2e3d82961d03265cb981f239bc02f02f612d1f2ba0dc7c9626f384a8",
+    "path": "/assets/photos/fes-gate-1600.webp",
+    "width": 1600,
+    "height": 1725,
+    "src_set": "/assets/photos/fes-gate-480.webp 480w, /assets/photos/fes-gate-960.webp 960w, /assets/photos/fes-gate-1600.webp 1600w, /assets/photos/fes-gate-2200.webp 2200w",
+    "variants": [
+      {
+        "width": 480,
+        "height": 518,
+        "src": "/assets/photos/fes-gate-480.webp",
+        "bytes": 57514
+      },
+      {
+        "width": 960,
+        "height": 1035,
+        "src": "/assets/photos/fes-gate-960.webp",
+        "bytes": 211274
+      },
+      {
+        "width": 1600,
+        "height": 1725,
+        "src": "/assets/photos/fes-gate-1600.webp",
+        "bytes": 540094
+      },
+      {
+        "width": 2200,
+        "height": 2372,
+        "src": "/assets/photos/fes-gate-2200.webp",
+        "bytes": 950396
+      }
+    ],
+    "position_css": "50% 50%",
+    "credit": "Petar Milošević — CC BY-SA 4.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Bab_Bou_Jeloud_(Fes,_Marocco).jpg",
+    "fallback": "/assets/destinations/fes.jpg",
+    "changes": "Orientation EXIF appliquée ; redimensionnement et compression WebP ; aucun contenu généré ou ajouté."
+  },
+  {
+    "id": "fes-bou-inania",
+    "city": "Fès",
+    "filename": "Bou inania DSCF4610.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bou_inania_DSCF4610.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bou_inania_DSCF4610.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Robert Prazeres",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "location_evidence": "Courtyard of the Bou Inania Madrasa, looking southeast towards prayer hall and mihrab.",
+    "source_width": 2974,
+    "source_height": 2210,
+    "alt": {
+      "fr": "Cour de la médersa Bou Inania à Fès",
+      "en": "Courtyard of Bou Inania Madrasa in Fès"
+    },
+    "original_file": "backend/storage/app/private/media-sources/fes-bou-inania.jpg",
+    "source_sha256": "0feb129f5eead1c0083fa95020cf2b8e22c84a485bfeb1eede671af52d61836e",
+    "path": "/assets/photos/fes-bou-inania-1600.webp",
+    "width": 1600,
+    "height": 1189,
+    "src_set": "/assets/photos/fes-bou-inania-480.webp 480w, /assets/photos/fes-bou-inania-960.webp 960w, /assets/photos/fes-bou-inania-1600.webp 1600w, /assets/photos/fes-bou-inania-2200.webp 2200w",
+    "variants": [
+      {
+        "width": 480,
+        "height": 357,
+        "src": "/assets/photos/fes-bou-inania-480.webp",
+        "bytes": 32538
+      },
+      {
+        "width": 960,
+        "height": 713,
+        "src": "/assets/photos/fes-bou-inania-960.webp",
+        "bytes": 140414
+      },
+      {
+        "width": 1600,
+        "height": 1189,
+        "src": "/assets/photos/fes-bou-inania-1600.webp",
+        "bytes": 394702
+      },
+      {
+        "width": 2200,
+        "height": 1635,
+        "src": "/assets/photos/fes-bou-inania-2200.webp",
+        "bytes": 686120
+      }
+    ],
+    "position_css": "50% 50%",
+    "credit": "Robert Prazeres — CC BY-SA 4.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Bou_inania_DSCF4610.jpg",
+    "fallback": "/assets/destinations/fes.jpg",
+    "changes": "Orientation EXIF appliquée ; redimensionnement et compression WebP ; aucun contenu généré ou ajouté."
+  },
+  {
+    "id": "fes-qarawiyyin",
+    "city": "Fès",
+    "filename": "Al-Qarawiyyin University, Fes, Morocco - Var 132.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Al-Qarawiyyin_University,_Fes,_Morocco_-_Var_132.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Al-Qarawiyyin_University%2C_Fes%2C_Morocco_-_Var_132.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Khonsali",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "location_evidence": "Courtyard, Al-Qarawiyyin University, Fes. Morocco",
+    "source_width": 1600,
+    "source_height": 1200,
+    "alt": {
+      "fr": "Cour de la mosquée Al-Qarawiyyin à Fès",
+      "en": "Courtyard of Al-Qarawiyyin Mosque in Fès"
+    },
+    "license_verification": "Photograph: CC BY-SA 3.0; the public-domain tag on the source refers to the depicted architecture.",
+    "original_file": "backend/storage/app/private/media-sources/fes-qarawiyyin.jpg",
+    "source_sha256": "c18dc7e33ca67d35508f5d961b3b5488e7cb8c8a62e895c1215da90d649ca11b",
+    "path": "/assets/photos/fes-qarawiyyin-1600.webp",
+    "width": 1600,
+    "height": 1200,
+    "src_set": "/assets/photos/fes-qarawiyyin-480.webp 480w, /assets/photos/fes-qarawiyyin-960.webp 960w, /assets/photos/fes-qarawiyyin-1600.webp 1600w",
+    "variants": [
+      {
+        "width": 480,
+        "height": 360,
+        "src": "/assets/photos/fes-qarawiyyin-480.webp",
+        "bytes": 23522
+      },
+      {
+        "width": 960,
+        "height": 720,
+        "src": "/assets/photos/fes-qarawiyyin-960.webp",
+        "bytes": 79224
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "src": "/assets/photos/fes-qarawiyyin-1600.webp",
+        "bytes": 182632
+      }
+    ],
+    "position_css": "50% 50%",
+    "credit": "Khonsali — CC BY-SA 3.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Al-Qarawiyyin_University,_Fes,_Morocco_-_Var_132.jpg",
+    "fallback": "/assets/destinations/fes.jpg",
+    "changes": "Orientation EXIF appliquée ; redimensionnement et compression WebP ; aucun contenu généré ou ajouté."
+  },
+  {
+    "id": "tanger-kasbah",
+    "city": "Tanger",
+    "filename": "Kasbah of Tangier (87649).jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Kasbah_of_Tangier_(87649).jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Kasbah_of_Tangier_%2887649%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Ideophagous",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "location_evidence": "Kasbah of Tangier",
+    "source_width": 4608,
+    "source_height": 3456,
+    "alt": {
+      "fr": "Architecture de la Kasbah de Tanger",
+      "en": "Architecture of the Kasbah in Tanger"
+    },
+    "original_file": "backend/storage/app/private/media-sources/tanger-kasbah.jpg",
+    "source_sha256": "f4a465c89d3274f35b6795465314757826572fd05887ba15b3e7b9f2abca2eeb",
+    "path": "/assets/photos/tanger-kasbah-1600.webp",
+    "width": 1600,
+    "height": 1200,
+    "src_set": "/assets/photos/tanger-kasbah-480.webp 480w, /assets/photos/tanger-kasbah-960.webp 960w, /assets/photos/tanger-kasbah-1600.webp 1600w, /assets/photos/tanger-kasbah-2200.webp 2200w",
+    "variants": [
+      {
+        "width": 480,
+        "height": 360,
+        "src": "/assets/photos/tanger-kasbah-480.webp",
+        "bytes": 31796
+      },
+      {
+        "width": 960,
+        "height": 720,
+        "src": "/assets/photos/tanger-kasbah-960.webp",
+        "bytes": 104734
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "src": "/assets/photos/tanger-kasbah-1600.webp",
+        "bytes": 235846
+      },
+      {
+        "width": 2200,
+        "height": 1650,
+        "src": "/assets/photos/tanger-kasbah-2200.webp",
+        "bytes": 379792
+      }
+    ],
+    "position_css": "50% 50%",
+    "credit": "Ideophagous — CC BY-SA 4.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Kasbah_of_Tangier_(87649).jpg",
+    "fallback": "/assets/destinations/tanger.jpg",
+    "changes": "Orientation EXIF appliquée ; redimensionnement et compression WebP ; aucun contenu généré ou ajouté."
+  },
+  {
+    "id": "tanger-seaside",
+    "city": "Tanger",
+    "filename": "Tangier, near the Kasbah and the seaside (65193).jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Tangier,_near_the_Kasbah_and_the_seaside_(65193).jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Tangier%2C_near_the_Kasbah_and_the_seaside_%2865193%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Ideophagous",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "location_evidence": "Tangier, near the Kasbah and the seaside",
+    "source_width": 4608,
+    "source_height": 3456,
+    "alt": {
+      "fr": "Tanger, entre la Kasbah et le front de mer",
+      "en": "Tanger, between the Kasbah and the waterfront"
+    },
+    "original_file": "backend/storage/app/private/media-sources/tanger-seaside.jpg",
+    "source_sha256": "88533d03abd87f509d294111060fb813fee3b211c6ed0049c6cc29a6aad5b6d8",
+    "path": "/assets/photos/tanger-seaside-1600.webp",
+    "width": 1600,
+    "height": 1200,
+    "src_set": "/assets/photos/tanger-seaside-480.webp 480w, /assets/photos/tanger-seaside-960.webp 960w, /assets/photos/tanger-seaside-1600.webp 1600w, /assets/photos/tanger-seaside-2200.webp 2200w",
+    "variants": [
+      {
+        "width": 480,
+        "height": 360,
+        "src": "/assets/photos/tanger-seaside-480.webp",
+        "bytes": 30844
+      },
+      {
+        "width": 960,
+        "height": 720,
+        "src": "/assets/photos/tanger-seaside-960.webp",
+        "bytes": 93014
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "src": "/assets/photos/tanger-seaside-1600.webp",
+        "bytes": 214046
+      },
+      {
+        "width": 2200,
+        "height": 1650,
+        "src": "/assets/photos/tanger-seaside-2200.webp",
+        "bytes": 339850
+      }
+    ],
+    "position_css": "50% 50%",
+    "credit": "Ideophagous — CC BY-SA 4.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Tangier,_near_the_Kasbah_and_the_seaside_(65193).jpg",
+    "fallback": "/assets/destinations/tanger.jpg",
+    "changes": "Orientation EXIF appliquée ; redimensionnement et compression WebP ; aucun contenu généré ou ajouté."
+  },
+  {
+    "id": "tanger-socco",
+    "city": "Tanger",
+    "filename": "Tangier - Grand Socco - 20200906181817.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Tangier_-_Grand_Socco_-_20200906181817.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Tangier_-_Grand_Socco_-_20200906181817.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Shbbkr",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "location_evidence": "Tangier, Grand Socco.",
+    "source_width": 6000,
+    "source_height": 4000,
+    "alt": {
+      "fr": "Place du Grand Socco à Tanger",
+      "en": "Grand Socco square in Tanger"
+    },
+    "original_file": "backend/storage/app/private/media-sources/tanger-socco.jpg",
+    "source_sha256": "fe9806877d5594b60d6fab7a808853485dc9a93597db6ae44035e95bcfd8e752",
+    "path": "/assets/photos/tanger-socco-1600.webp",
+    "width": 1600,
+    "height": 1067,
+    "src_set": "/assets/photos/tanger-socco-480.webp 480w, /assets/photos/tanger-socco-960.webp 960w, /assets/photos/tanger-socco-1600.webp 1600w, /assets/photos/tanger-socco-2200.webp 2200w",
+    "variants": [
+      {
+        "width": 480,
+        "height": 320,
+        "src": "/assets/photos/tanger-socco-480.webp",
+        "bytes": 40952
+      },
+      {
+        "width": 960,
+        "height": 640,
+        "src": "/assets/photos/tanger-socco-960.webp",
+        "bytes": 145168
+      },
+      {
+        "width": 1600,
+        "height": 1067,
+        "src": "/assets/photos/tanger-socco-1600.webp",
+        "bytes": 372476
+      },
+      {
+        "width": 2200,
+        "height": 1467,
+        "src": "/assets/photos/tanger-socco-2200.webp",
+        "bytes": 650516
+      }
+    ],
+    "position_css": "50% 50%",
+    "credit": "Shbbkr — CC BY-SA 4.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Tangier_-_Grand_Socco_-_20200906181817.jpg",
+    "fallback": "/assets/destinations/tanger.jpg",
+    "changes": "Orientation EXIF appliquée ; redimensionnement et compression WebP ; aucun contenu généré ou ajouté."
+  },
+  {
+    "id": "casablanca-habous",
+    "city": "Casablanca",
+    "filename": "Quartier Habous Casablanca.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Quartier_Habous_Casablanca.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Quartier_Habous_Casablanca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Photo2023",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "location_evidence": "Quartier Habous Casablanca",
+    "source_width": 3024,
+    "source_height": 4032,
+    "alt": {
+      "fr": "Architecture du quartier Habous à Casablanca",
+      "en": "Architecture in the Habous district of Casablanca"
+    },
+    "original_file": "backend/storage/app/private/media-sources/casablanca-habous.jpg",
+    "source_sha256": "3a2230d31a532c402a178469513430ed6c8679fd3ae47a17f2557a0314e95082",
+    "path": "/assets/photos/casablanca-habous-1600.webp",
+    "width": 1600,
+    "height": 2133,
+    "src_set": "/assets/photos/casablanca-habous-480.webp 480w, /assets/photos/casablanca-habous-960.webp 960w, /assets/photos/casablanca-habous-1600.webp 1600w, /assets/photos/casablanca-habous-2200.webp 2200w",
+    "variants": [
+      {
+        "width": 480,
+        "height": 640,
+        "src": "/assets/photos/casablanca-habous-480.webp",
+        "bytes": 42108
+      },
+      {
+        "width": 960,
+        "height": 1280,
+        "src": "/assets/photos/casablanca-habous-960.webp",
+        "bytes": 137536
+      },
+      {
+        "width": 1600,
+        "height": 2133,
+        "src": "/assets/photos/casablanca-habous-1600.webp",
+        "bytes": 297476
+      },
+      {
+        "width": 2200,
+        "height": 2933,
+        "src": "/assets/photos/casablanca-habous-2200.webp",
+        "bytes": 450582
+      }
+    ],
+    "position_css": "50% 50%",
+    "credit": "Photo2023 — CC BY 4.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Quartier_Habous_Casablanca.jpg",
+    "fallback": "/assets/destinations/casablanca.jpg",
+    "changes": "Orientation EXIF appliquée ; redimensionnement et compression WebP ; aucun contenu généré ou ajouté."
+  },
+  {
+    "id": "casablanca-hassan-ii",
+    "city": "Casablanca",
+    "filename": "Framing Heritage - Hassan II Mosque.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Framing_Heritage_-_Hassan_II_Mosque.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Framing_Heritage_-_Hassan_II_Mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "OussamaHamama",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "location_evidence": "This image is the result of persistence rather than chance. Captured under the intense midday sun in August, it took numerous attempts to balance a handheld DSLR in one hand while positioning a wooden frame with the other. Looking through the optical viewfinder, I carefully adjusted focus, alignment, and perspective until the frame naturally embraced the Hassan II Mosque.\nEvery slight movement meant starting over. The final composition reflects the patience and precision often hidden behind a single photograph. More than a creative exercise, this image invites viewers to experience one of Morocco's most iconic landmarks from a different perspective, celebrating the country's rich architectural heritage and encouraging a deeper appreciation of its cultural legacy.",
+    "source_width": 5184,
+    "source_height": 3456,
+    "alt": {
+      "fr": "Mosquée Hassan II à Casablanca, vue à travers un cadre tenu par le photographe",
+      "en": "Hassan II Mosque in Casablanca, seen through a frame held by the photographer"
+    },
+    "original_file": "backend/storage/app/private/media-sources/casablanca-hassan-ii.jpg",
+    "source_sha256": "a3fdbf755ab848dd12f16022aaa23a7ecd28079ae6bb780904e4ff5443d21a4e",
+    "path": "/assets/photos/casablanca-hassan-ii-1600.webp",
+    "width": 1600,
+    "height": 1067,
+    "src_set": "/assets/photos/casablanca-hassan-ii-480.webp 480w, /assets/photos/casablanca-hassan-ii-960.webp 960w, /assets/photos/casablanca-hassan-ii-1600.webp 1600w, /assets/photos/casablanca-hassan-ii-2200.webp 2200w",
+    "variants": [
+      {
+        "width": 480,
+        "height": 320,
+        "src": "/assets/photos/casablanca-hassan-ii-480.webp",
+        "bytes": 12798
+      },
+      {
+        "width": 960,
+        "height": 640,
+        "src": "/assets/photos/casablanca-hassan-ii-960.webp",
+        "bytes": 38906
+      },
+      {
+        "width": 1600,
+        "height": 1067,
+        "src": "/assets/photos/casablanca-hassan-ii-1600.webp",
+        "bytes": 87576
+      },
+      {
+        "width": 2200,
+        "height": 1467,
+        "src": "/assets/photos/casablanca-hassan-ii-2200.webp",
+        "bytes": 151538
+      }
+    ],
+    "position_css": "50% 50%",
+    "credit": "OussamaHamama — CC BY-SA 4.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Framing_Heritage_-_Hassan_II_Mosque.jpg",
+    "fallback": "/assets/destinations/casablanca.jpg",
+    "changes": "Orientation EXIF appliquée ; redimensionnement et compression WebP ; aucun contenu généré ou ajouté."
+  },
+  {
+    "id": "casablanca-habous-arches",
+    "city": "Casablanca",
+    "filename": "Houbous Casablanca 01.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Houbous_Casablanca_01.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Houbous_Casablanca_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Taloubant",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "location_evidence": "Houbous Casablanca",
+    "source_width": 4284,
+    "source_height": 5712,
+    "alt": {
+      "fr": "Arcades du quartier Habous à Casablanca",
+      "en": "Arcades in the Habous district of Casablanca"
+    },
+    "original_file": "backend/storage/app/private/media-sources/casablanca-habous-arches.jpg",
+    "source_sha256": "5830c7a7a2e9f8e04dc7ec149be7e6810b46ca63892b7e6c307983b8ff47080b",
+    "path": "/assets/photos/casablanca-habous-arches-1600.webp",
+    "width": 1600,
+    "height": 2133,
+    "src_set": "/assets/photos/casablanca-habous-arches-480.webp 480w, /assets/photos/casablanca-habous-arches-960.webp 960w, /assets/photos/casablanca-habous-arches-1600.webp 1600w, /assets/photos/casablanca-habous-arches-2200.webp 2200w",
+    "variants": [
+      {
+        "width": 480,
+        "height": 640,
+        "src": "/assets/photos/casablanca-habous-arches-480.webp",
+        "bytes": 44198
+      },
+      {
+        "width": 960,
+        "height": 1280,
+        "src": "/assets/photos/casablanca-habous-arches-960.webp",
+        "bytes": 175500
+      },
+      {
+        "width": 1600,
+        "height": 2133,
+        "src": "/assets/photos/casablanca-habous-arches-1600.webp",
+        "bytes": 459334
+      },
+      {
+        "width": 2200,
+        "height": 2933,
+        "src": "/assets/photos/casablanca-habous-arches-2200.webp",
+        "bytes": 773266
+      }
+    ],
+    "position_css": "50% 50%",
+    "credit": "Taloubant — CC BY-SA 4.0",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Houbous_Casablanca_01.jpg",
+    "fallback": "/assets/destinations/casablanca.jpg",
+    "changes": "Orientation EXIF appliquée ; redimensionnement et compression WebP ; aucun contenu généré ou ajouté."
+  }
+]

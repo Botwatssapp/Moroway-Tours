@@ -1,0 +1,72 @@
+[
+  {
+    "file": "dist/index.html",
+    "bytes": 41899,
+    "sha256": "37fafe8c7824f0a0de86dcf3b3d631dd48f51d426ba0a88c1d851b244dfd6bb7"
+  },
+  {
+    "file": "dist/collection.js",
+    "bytes": 26792,
+    "sha256": "b07576e26a7f2ce324b3cf1956566592ea7f153636dd46ee893cc26061f8cd89"
+  },
+  {
+    "file": "dist/tour-details.js",
+    "bytes": 46302,
+    "sha256": "517f9662f991529eb730838dbf42887c191d96a71ce35775bdecc44597befac3"
+  },
+  {
+    "file": "dist/tour-details.css",
+    "bytes": 19931,
+    "sha256": "5868fa84ce4884be47cefde1f152e32c7d864d12fa4ba39c12010d62d0943e73"
+  },
+  {
+    "file": "dist/assets/agafay.jpg",
+    "bytes": 148978,
+    "sha256": "b5b58f30e0bc4b6a1692b69f64e9cabe05d4c4a8e0e138f654786d5d9f975268"
+  },
+  {
+    "file": "dist/assets/ait-benhaddou.jpg",
+    "bytes": 365339,
+    "sha256": "a57059a9ab246571377b679e43c785d5e6548544548cb0d2284331ccdc031c80"
+  },
+  {
+    "file": "dist/assets/atlas.jpg",
+    "bytes": 364980,
+    "sha256": "b583e2dbcb1a1aca83abf18b384ad694f2f2749729b9740e5ea00af94fc64e25"
+  },
+  {
+    "file": "dist/assets/chefchaouen.jpg",
+    "bytes": 418606,
+    "sha256": "05b7f37a5d65ef649622e48bfd84990c69600dbc728f22a23defea05c14fbd1e"
+  },
+  {
+    "file": "dist/assets/dades.jpg",
+    "bytes": 528709,
+    "sha256": "cfdfc5bdf27bf8b68977f82e836b620517e042f9cff025c3ad81d8390cafdb88"
+  },
+  {
+    "file": "dist/assets/essaouira.jpg",
+    "bytes": 241058,
+    "sha256": "427a942e43e3c6e6d3260b7cc6a5f1e371863b9dd584c05da62cac64e0d58bd2"
+  },
+  {
+    "file": "dist/assets/merzouga-caravan.jpg",
+    "bytes": 126014,
+    "sha256": "682f7a67bee5be7d0aec8b4341f54fac55f88f00024aa842b209e4e59c1de0a0"
+  },
+  {
+    "file": "dist/assets/moroway-camel-logo.png",
+    "bytes": 1687538,
+    "sha256": "ffffc39c21dcebc7d4fbdff25f0ebdc1a63a6f9e9a29fcc9ab9c1daa9029c802"
+  },
+  {
+    "file": "dist/assets/moroway-tours-logo.png",
+    "bytes": 2625435,
+    "sha256": "824633200e34d7c33fa0266083bc23821e7b189e7979b252d5a9004a0a37ac90"
+  },
+  {
+    "file": "dist/assets/sahara-sunset.jpg",
+    "bytes": 295293,
+    "sha256": "13f262b63c62d191830ae5960c76eec73f5f924170156acf84bb75b2ef442047"
+  }
+]

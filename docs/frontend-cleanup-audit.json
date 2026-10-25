@@ -1,0 +1,101 @@
+{
+  "note": "Static evidence only. Dynamic data, Laravel, CSS and deployment references must also be reviewed before deletion.",
+  "graph": {
+    "frontend/src/App.jsx": [
+      "frontend/src/context/SiteContext.jsx",
+      "frontend/src/layouts/SiteLayout.jsx",
+      "frontend/src/components/Editorial.jsx",
+      "frontend/src/components/Common.jsx",
+      "frontend/src/pages/Tours.jsx",
+      "frontend/src/pages/TourDetails.jsx",
+      "frontend/src/pages/Forms.jsx",
+      "frontend/src/pages/OtherPages.jsx",
+      "frontend/src/pages/Admin.jsx",
+      "frontend/src/components/LegacyRedirect.jsx",
+      "frontend/src/utils/routes.js"
+    ],
+    "frontend/src/components/Common.jsx": [
+      "frontend/src/components/Photo.jsx",
+      "frontend/src/context/SiteContext.jsx"
+    ],
+    "frontend/src/components/DestinationCards.jsx": [
+      "frontend/src/components/Photo.jsx",
+      "frontend/src/context/SiteContext.jsx"
+    ],
+    "frontend/src/components/Editorial.jsx": [
+      "frontend/src/components/Photo.jsx",
+      "frontend/src/context/SiteContext.jsx",
+      "frontend/src/assets/editorial.json",
+      "frontend/src/utils/routes.js",
+      "frontend/src/components/DestinationCards.jsx",
+      "frontend/src/components/Common.jsx"
+    ],
+    "frontend/src/components/LegacyRedirect.jsx": [
+      "frontend/src/utils/routes.js"
+    ],
+    "frontend/src/components/Photo.jsx": [
+      "frontend/src/context/SiteContext.jsx",
+      "frontend/src/assets/photos.json"
+    ],
+    "frontend/src/components/PhotoCredit.jsx": [],
+    "frontend/src/context/SiteContext.jsx": [
+      "frontend/src/services/api.js"
+    ],
+    "frontend/src/hooks/usePageEffects.js": [
+      "frontend/src/context/SiteContext.jsx"
+    ],
+    "frontend/src/layouts/SiteLayout.jsx": [
+      "frontend/src/context/SiteContext.jsx",
+      "frontend/src/components/Common.jsx",
+      "frontend/src/hooks/usePageEffects.js"
+    ],
+    "frontend/src/main.jsx": [
+      "frontend/src/App.jsx",
+      "frontend/src/styles/original.css",
+      "frontend/src/styles/application.css",
+      "frontend/src/styles/destinations.css",
+      "frontend/src/styles/photos.css"
+    ],
+    "frontend/src/pages/Admin.jsx": [
+      "frontend/src/context/SiteContext.jsx",
+      "frontend/src/services/api.js",
+      "frontend/src/components/Common.jsx"
+    ],
+    "frontend/src/pages/Forms.jsx": [
+      "frontend/src/components/Photo.jsx",
+      "frontend/src/components/PhotoCredit.jsx",
+      "frontend/src/context/SiteContext.jsx",
+      "frontend/src/services/api.js",
+      "frontend/src/components/Common.jsx",
+      "frontend/src/components/Editorial.jsx"
+    ],
+    "frontend/src/pages/OtherPages.jsx": [
+      "frontend/src/context/SiteContext.jsx",
+      "frontend/src/components/DestinationCards.jsx",
+      "frontend/src/components/Common.jsx"
+    ],
+    "frontend/src/pages/TourDetails.jsx": [
+      "frontend/src/components/Photo.jsx",
+      "frontend/src/context/SiteContext.jsx",
+      "frontend/src/services/api.js",
+      "frontend/src/components/Common.jsx",
+      "frontend/src/components/Editorial.jsx"
+    ],
+    "frontend/src/pages/Tours.jsx": [
+      "frontend/src/context/SiteContext.jsx",
+      "frontend/src/services/api.js",
+      "frontend/src/components/Common.jsx"
+    ],
+    "frontend/src/services/api.js": [],
+    "frontend/src/utils/routes.js": []
+  },
+  "unusedTopLevelBindings": [],
+  "unreachableSourceFiles": [],
+  "runtimePackages": [
+    "axios",
+    "html-react-parser",
+    "react",
+    "react-dom",
+    "react-router-dom"
+  ]
+}

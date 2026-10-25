@@ -1,0 +1,321 @@
+{
+  "restore_point": {
+    "archive": "backend/storage/app/private/maintenance/restore-project-20261025-160401.zip",
+    "manifest": "backend/storage/app/private/maintenance/restore-manifest-20261025-160401.json",
+    "sha256": "cc3288a49f9c0fa3539d5ee5d1638b77782c27397dcb426e7de19addb212f9be",
+    "verified_entries": 348,
+    "bytes": 153296873,
+    "validation_artifacts": 15
+  },
+  "deleted": [
+    {
+      "path": "dist/assets/agafay.jpg",
+      "bytes": 148978,
+      "reason": "Ancienne version HTML remplacee par React; copie restauree possible depuis le ZIP verifie."
+    },
+    {
+      "path": "dist/assets/ait-benhaddou.jpg",
+      "bytes": 365339,
+      "reason": "Ancienne version HTML remplacee par React; copie restauree possible depuis le ZIP verifie."
+    },
+    {
+      "path": "dist/assets/atlas.jpg",
+      "bytes": 364980,
+      "reason": "Ancienne version HTML remplacee par React; copie restauree possible depuis le ZIP verifie."
+    },
+    {
+      "path": "dist/assets/chefchaouen.jpg",
+      "bytes": 418606,
+      "reason": "Ancienne version HTML remplacee par React; copie restauree possible depuis le ZIP verifie."
+    },
+    {
+      "path": "dist/assets/dades.jpg",
+      "bytes": 528709,
+      "reason": "Ancienne version HTML remplacee par React; copie restauree possible depuis le ZIP verifie."
+    },
+    {
+      "path": "dist/assets/essaouira.jpg",
+      "bytes": 241058,
+      "reason": "Ancienne version HTML remplacee par React; copie restauree possible depuis le ZIP verifie."
+    },
+    {
+      "path": "dist/assets/merzouga-caravan.jpg",
+      "bytes": 126014,
+      "reason": "Ancienne version HTML remplacee par React; copie restauree possible depuis le ZIP verifie."
+    },
+    {
+      "path": "dist/assets/moroway-camel-logo.png",
+      "bytes": 1687538,
+      "reason": "Ancienne version HTML remplacee par React; copie restauree possible depuis le ZIP verifie."
+    },
+    {
+      "path": "dist/assets/moroway-tours-logo.png",
+      "bytes": 2625435,
+      "reason": "Ancienne version HTML remplacee par React; copie restauree possible depuis le ZIP verifie."
+    },
+    {
+      "path": "dist/assets/sahara-sunset.jpg",
+      "bytes": 295293,
+      "reason": "Ancienne version HTML remplacee par React; copie restauree possible depuis le ZIP verifie."
+    },
+    {
+      "path": "dist/collection.js",
+      "bytes": 26792,
+      "reason": "Ancienne version HTML remplacee par React; copie restauree possible depuis le ZIP verifie."
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 41899,
+      "reason": "Ancienne version HTML remplacee par React; copie restauree possible depuis le ZIP verifie."
+    },
+    {
+      "path": "dist/tour-details.css",
+      "bytes": 19931,
+      "reason": "Ancienne version HTML remplacee par React; copie restauree possible depuis le ZIP verifie."
+    },
+    {
+      "path": "dist/tour-details.js",
+      "bytes": 46302,
+      "reason": "Ancienne version HTML remplacee par React; copie restauree possible depuis le ZIP verifie."
+    },
+    {
+      "path": "start.py",
+      "bytes": 638,
+      "reason": "Lance uniquement ancien HTML retire."
+    },
+    {
+      "path": "DEMARRER-WINDOWS.bat",
+      "bytes": 314,
+      "reason": "Ancien lanceur statique; lanceur React/Laravel conserve."
+    },
+    {
+      "path": "legacy-original/start.py",
+      "bytes": 638,
+      "reason": "Doublon du lanceur obsolete."
+    },
+    {
+      "path": "legacy-original/DEMARRER-WINDOWS.bat",
+      "bytes": 314,
+      "reason": "Doublon du lanceur obsolete."
+    },
+    {
+      "path": "legacy-original/README.md",
+      "bytes": 3150,
+      "reason": "Documentation de la version HTML archivee."
+    },
+    {
+      "path": "tools/extract-legacy.mjs",
+      "bytes": 3142,
+      "reason": "Migration ponctuelle achevee; ecrirait des donnees historiques devenues obsoletes."
+    },
+    {
+      "path": "backend/resources/css/app.css",
+      "bytes": 413,
+      "reason": "Entree Tailwind du squelette, aucune vue backend; React utilise ses CSS propres."
+    },
+    {
+      "path": "backend/resources/js/app.js",
+      "bytes": 22,
+      "reason": "Entree JS du squelette, aucune vue backend."
+    },
+    {
+      "path": "backend/resources/js/bootstrap.js",
+      "bytes": 127,
+      "reason": "Axios global du squelette uniquement importe par son entree JS retiree."
+    },
+    {
+      "path": "backend/vite.config.js",
+      "bytes": 331,
+      "reason": "Build secondaire sans vue utilisatrice; scripts backend rediriges vers le frontend actif."
+    },
+    {
+      "path": "backend/tests/Unit/ExampleTest.php",
+      "bytes": 243,
+      "reason": "Demonstration assertTrue(true), aucun comportement applicatif teste; tests fonctionnels conserves."
+    },
+    {
+      "path": "backend/README.md",
+      "bytes": 4109,
+      "reason": "README generique Laravel; documentation operationnelle a la racine."
+    },
+    {
+      "path": "docs/scope-design-manifest.json",
+      "bytes": 46061,
+      "reason": "Ancienne copie inline du code anterieure aux photos; disponible dans la restauration, aucune utilisation par les outils actuels."
+    },
+    {
+      "path": "legacy-original/verified-photo-sources/casablanca-mosque.jpg",
+      "bytes": 2165520,
+      "reason": "Candidat photo rejete, absent du registre approuve et du site."
+    },
+    {
+      "path": "legacy-original/verified-photo-sources/casablanca-mosque.json",
+      "bytes": 920,
+      "reason": "Candidat photo rejete, absent du registre approuve et du site."
+    },
+    {
+      "path": "legacy-original/verified-photo-sources/tanger-market.jpg",
+      "bytes": 10360032,
+      "reason": "Candidat photo rejete, absent du registre approuve et du site."
+    },
+    {
+      "path": "legacy-original/verified-photo-sources/tanger-market.json",
+      "bytes": 683,
+      "reason": "Candidat photo rejete, absent du registre approuve et du site."
+    },
+    {
+      "path": "legacy-original/verified-photo-sources/unused-webp/casablanca-mosque-1600.webp",
+      "bytes": 106074,
+      "reason": "Variante generee dun candidat rejete; aucune reference publique ni SQL."
+    },
+    {
+      "path": "legacy-original/verified-photo-sources/unused-webp/casablanca-mosque-2200.webp",
+      "bytes": 166044,
+      "reason": "Variante generee dun candidat rejete; aucune reference publique ni SQL."
+    },
+    {
+      "path": "legacy-original/verified-photo-sources/unused-webp/casablanca-mosque-480.webp",
+      "bytes": 14268,
+      "reason": "Variante generee dun candidat rejete; aucune reference publique ni SQL."
+    },
+    {
+      "path": "legacy-original/verified-photo-sources/unused-webp/casablanca-mosque-960.webp",
+      "bytes": 46664,
+      "reason": "Variante generee dun candidat rejete; aucune reference publique ni SQL."
+    },
+    {
+      "path": "legacy-original/verified-photo-sources/unused-webp/tanger-market-1600.webp",
+      "bytes": 168238,
+      "reason": "Variante generee dun candidat rejete; aucune reference publique ni SQL."
+    },
+    {
+      "path": "legacy-original/verified-photo-sources/unused-webp/tanger-market-2200.webp",
+      "bytes": 421606,
+      "reason": "Variante generee dun candidat rejete; aucune reference publique ni SQL."
+    },
+    {
+      "path": "legacy-original/verified-photo-sources/unused-webp/tanger-market-480.webp",
+      "bytes": 22226,
+      "reason": "Variante generee dun candidat rejete; aucune reference publique ni SQL."
+    },
+    {
+      "path": "legacy-original/verified-photo-sources/unused-webp/tanger-market-960.webp",
+      "bytes": 64332,
+      "reason": "Variante generee dun candidat rejete; aucune reference publique ni SQL."
+    },
+    {
+      "path": "backend/storage/app/private/maintenance/sources-before-cleanup-20261025-154758.zip",
+      "bytes": 131889867,
+      "reason": "Sauvegarde obsolete consolidee; chaque contenu distinct verifie dans le nouveau point de restauration."
+    },
+    {
+      "path": "backend/storage/app/private/maintenance/inventory-20261025-154758.json",
+      "bytes": 2430433,
+      "reason": "Ancien inventaire conserve dans le point de restauration consolide."
+    },
+    {
+      "path": "tools/.test-results/tmp/cv_debug.log",
+      "bytes": 123,
+      "reason": "Artefact temporaire cree par les tests de cette intervention, archive apres validation ; regenerable."
+    },
+    {
+      "path": "tools/.test-results/tmp/playwright-transform-cache/3f/3f4bc47590_88d58ce_destinationsspec.js",
+      "bytes": 7707,
+      "reason": "Artefact temporaire cree par les tests de cette intervention, archive apres validation ; regenerable."
+    },
+    {
+      "path": "tools/.test-results/tmp/playwright-transform-cache/3f/3f4bc47590_88d58ce_destinationsspec.map",
+      "bytes": 4380,
+      "reason": "Artefact temporaire cree par les tests de cette intervention, archive apres validation ; regenerable."
+    },
+    {
+      "path": "tools/.test-results/tmp/playwright-transform-cache/82/8216a627fd_f63ab25_photosspec.js",
+      "bytes": 18210,
+      "reason": "Artefact temporaire cree par les tests de cette intervention, archive apres validation ; regenerable."
+    },
+    {
+      "path": "tools/.test-results/tmp/playwright-transform-cache/82/8216a627fd_f63ab25_photosspec.map",
+      "bytes": 10344,
+      "reason": "Artefact temporaire cree par les tests de cette intervention, archive apres validation ; regenerable."
+    },
+    {
+      "path": "tools/.test-results/tmp/playwright-transform-cache/ce/ce7b382f3a_2712c46_cityscopespec.js",
+      "bytes": 17408,
+      "reason": "Artefact temporaire cree par les tests de cette intervention, archive apres validation ; regenerable."
+    },
+    {
+      "path": "tools/.test-results/tmp/playwright-transform-cache/ce/ce7b382f3a_2712c46_cityscopespec.map",
+      "bytes": 9899,
+      "reason": "Artefact temporaire cree par les tests de cette intervention, archive apres validation ; regenerable."
+    },
+    {
+      "path": "tools/.test-results/tmp/playwright-transform-cache/e1/e1fe414af0_3354096_databaserepairspec.js",
+      "bytes": 6029,
+      "reason": "Artefact temporaire cree par les tests de cette intervention, archive apres validation ; regenerable."
+    },
+    {
+      "path": "tools/.test-results/tmp/playwright-transform-cache/e1/e1fe414af0_3354096_databaserepairspec.map",
+      "bytes": 3442,
+      "reason": "Artefact temporaire cree par les tests de cette intervention, archive apres validation ; regenerable."
+    },
+    {
+      "path": "tools/.test-results/tmp/playwright-transform-cache/ef/ef471794e1_d730e04_playwrightconfig.js",
+      "bytes": 1597,
+      "reason": "Artefact temporaire cree par les tests de cette intervention, archive apres validation ; regenerable."
+    },
+    {
+      "path": "tools/.test-results/tmp/playwright-transform-cache/ef/ef471794e1_d730e04_playwrightconfig.map",
+      "bytes": 848,
+      "reason": "Artefact temporaire cree par les tests de cette intervention, archive apres validation ; regenerable."
+    },
+    {
+      "path": "backend/storage/framework/testing/tmp/sf_proc_00.err",
+      "bytes": 122,
+      "reason": "Artefact temporaire cree par les tests de cette intervention, archive apres validation ; regenerable."
+    },
+    {
+      "path": "backend/storage/framework/testing/tmp/sf_proc_00.err.lock",
+      "bytes": 0,
+      "reason": "Artefact temporaire cree par les tests de cette intervention, archive apres validation ; regenerable."
+    },
+    {
+      "path": "backend/storage/framework/testing/tmp/sf_proc_00.out",
+      "bytes": 0,
+      "reason": "Artefact temporaire cree par les tests de cette intervention, archive apres validation ; regenerable."
+    },
+    {
+      "path": "backend/storage/framework/testing/tmp/sf_proc_00.out.lock",
+      "bytes": 0,
+      "reason": "Artefact temporaire cree par les tests de cette intervention, archive apres validation ; regenerable."
+    }
+  ],
+  "moved": [
+    {
+      "from": "legacy-original/public-assets",
+      "to": "backend/storage/app/private/archived-media/assets"
+    },
+    {
+      "from": "legacy-original/verified-photo-sources",
+      "to": "backend/storage/app/private/media-sources"
+    }
+  ],
+  "empty_directories_removed": [
+    "dist/assets",
+    "dist",
+    "legacy-original",
+    "backend/resources/css",
+    "backend/resources/js",
+    "backend/resources/views",
+    "backend/resources",
+    "backend/tests/Unit",
+    "backend/storage/app/private/media-sources/unused-webp",
+    "tools/.test-results/tmp/playwright-transform-cache/3f",
+    "tools/.test-results/tmp/playwright-transform-cache/82",
+    "tools/.test-results/tmp/playwright-transform-cache/ce",
+    "tools/.test-results/tmp/playwright-transform-cache/e1",
+    "tools/.test-results/tmp/playwright-transform-cache/ef",
+    "tools/.test-results/tmp/playwright-transform-cache",
+    "tools/.test-results/tmp",
+    "backend/storage/framework/testing/tmp"
+  ]
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+# Ajouter Sitemap: https://votre-domaine/sitemap.xml au déploiement.

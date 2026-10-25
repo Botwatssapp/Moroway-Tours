@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "fes",
+    "name": "Fès",
+    "description": {
+      "fr": "Médina, artisanat et patrimoine",
+      "en": "Medina, craftsmanship and heritage"
+    },
+    "image": "/assets/photos/fes-gate-1600.webp",
+    "image_credit": "Petar Milošević — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Bab_Bou_Jeloud_(Fes,_Marocco).jpg"
+  },
+  {
+    "slug": "tanger",
+    "name": "Tanger",
+    "description": {
+      "fr": "La ville du détroit",
+      "en": "The city on the strait"
+    },
+    "image": "/assets/photos/tanger-kasbah-1600.webp",
+    "image_credit": "Ideophagous — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Kasbah_of_Tangier_(87649).jpg"
+  },
+  {
+    "slug": "casablanca",
+    "name": "Casablanca",
+    "description": {
+      "fr": "L’élégance au bord de l’Atlantique",
+      "en": "Elegance by the Atlantic"
+    },
+    "image": "/assets/photos/casablanca-habous-1600.webp",
+    "image_credit": "Photo2023 — CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Quartier_Habous_Casablanca.jpg"
+  }
+]

@@ -1,0 +1,2 @@
+/* Only the public destination grids change their desktop column count. */
+@media(min-width:901px){.destinations.destinations-public{grid-template-columns:repeat(3,minmax(0,1fr))}}

@@ -1,0 +1,10 @@
+import {chromium} from '../frontend/node_modules/playwright/index.mjs';
+const browser=await chromium.launch({channel:'msedge',headless:true});
+const page=await browser.newPage({viewport:{width:1440,height:1000},reducedMotion:'reduce'});
+await page.goto('http://127.0.0.1:5173/');await page.locator('.card').first().waitFor();await page.screenshot({path:'docs/screenshots/home-desktop.png'});
+await page.goto('http://127.0.0.1:5173/tours/fes-decouverte');await page.locator('.mw-tour-hero h1').waitFor();await page.screenshot({path:'docs/screenshots/tour-top-desktop.png'});
+await page.setViewportSize({width:390,height:844});await page.screenshot({path:'docs/screenshots/tour-top-mobile.png'});
+const overflow=await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth);if(overflow)throw Error('Tour mobile overflows');
+await page.goto('http://127.0.0.1:5173/booking/fes-decouverte');await page.locator('form input[name=name]').waitFor();await page.screenshot({path:'docs/screenshots/booking-mobile.png',fullPage:true});
+if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth))throw Error('Booking mobile overflows');
+await browser.close();console.log('Desktop/mobile QA screenshots saved; no horizontal overflow on tour or booking at 390px.');
